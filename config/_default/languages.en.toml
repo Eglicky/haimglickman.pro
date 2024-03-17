@@ -8,16 +8,16 @@ title = "Blowfish"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-   logo = "me.jpg"
-#   secondaryLogo = "img/secondary-logo.png"
+   logo = "img/logo.png"
+   secondaryLogo = "img/secondary-logo.png"
    description = "Evan Glickman: Cybersecurity Analytics and Operations Student"
-#   copyright = "Copy, _right?_ :thinking_face:"
+   copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
    name = "Evan Glickman"
    image = "img/blowfish_logo.png"
-   headline = "I'm only human"
-   bio = "A little bit about you"
+   headline = "Cybersecurity Student at Penn State University"
+   bio = "Sup"
    links = [
      { email = "edg5242@psu.edu" },
      { link = "https://www.linkedin.com/in/evan-glickman-a08888248/" },
