@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Evan Glickman"
 
 [params]
   displayName = "EN"
@@ -10,7 +10,7 @@ title = "Blowfish"
   dateFormat = "2 January 2006"
 #  logo = "img/logo.png"
 #   secondaryLogo = "img/secondary-logo.png"
-   description = "Evan Glickman: Cybersecurity Analytics and Operations Student"
+   description = "Evan Glickman Cybersecurity Analytics and Operations Student"
 #   copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
@@ -19,8 +19,8 @@ title = "Blowfish"
    headline = "Cybersecurity Student at Penn State University"
    bio = "Sup"
    links = [
-     { email = "edg5242@psu.edu" },
-     { link = "https://www.linkedin.com/in/evan-glickman-a08888248/" },
+      { email = "edg5242@psu.edu" },
+      { link = "https://www.linkedin.com/in/evan-glickman-a08888248/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
@@ -32,7 +32,7 @@ title = "Blowfish"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-     { github = "https://github.com/Eglicky" },
+      { github = "https://github.com/Eglicky" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -63,5 +63,5 @@ title = "Blowfish"
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
-#     { ko-fi = "https://ko-fi.com/username" },
-#   ]
+#     { ko-fi = "https://ko-fi.com/username" }
+   ]
