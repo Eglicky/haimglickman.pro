@@ -1,26 +1,26 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Eglick"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-#  logo = "img/logo.png"
+  logo = "logo.png"
 #   secondaryLogo = "img/secondary-logo.png"
-   description = "Evan Glickman: Cybersecurity Analytics and Operations Student"
+#   description = "Evan Glickman: Cybersecurity Analytics and Operations Student"
 #   copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
    name = "Evan Glickman"
-#   image = "img/blowfish_logo.png"
-   headline = "Cybersecurity Student at Penn State University"
-   bio = "Sup"
+   image = "me.jpg"
+   headline = "Cybersecurity Analytics and Operations Student at Penn State University"
+   bio = "Student"
    links = [
      { email = "edg5242@psu.edu" },
-     { link = "https://www.linkedin.com/in/evan-glickman-a08888248/" },
+     { linkedin = "https://www.linkedin.com/in/evan-glickman-a08888248/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
@@ -64,4 +64,4 @@ title = "Blowfish"
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-#   ]
+   ]
