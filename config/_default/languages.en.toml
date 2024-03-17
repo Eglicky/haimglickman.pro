@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Eglicky"
+title = "Eglick"
 
 [params]
   displayName = "EN"
@@ -9,7 +9,7 @@ title = "Eglicky"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "logo.png"
-#   secondaryLogo = "img/secondary-logo.png"
+  secondaryLogo = "logo.png"
    description = "Evan Glickman: Cybersecurity Analytics and Operations Student"
 #   copyright = "Copy, _right?_ :thinking_face:"
 
@@ -20,7 +20,7 @@ title = "Eglicky"
    bio = "Student"
    links = [
      { email = "edg5242@psu.edu" },
-     { link = "https://www.linkedin.com/in/evan-glickman-a08888248/" },
+     { linkedin = "https://www.linkedin.com/in/evan-glickman-a08888248/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },

@@ -4,7 +4,7 @@ Welcome! I'm currently pursuing a degree in Cybersecurity Analytics and Operatio
 
 ## What I do
 
-### Compettiive Cyber Security Organizaion 
+### Competitiive Cyber Security Organizaion 
 
 In addition to my coursework at Penn State, I am the Treasurer of the [Competitive Cyber Security Organizaion (CCSO)](https://ccso/psu/edu). I create and plan the yearly budget and organize all travel within the club. I also manage the equipment and travel budget whilst reimbursing Executive Board members for their club related purchases. Apart from being Treasurer I am active in multiple club competition teams. I am the Network Firewall Administrator for our [Collegiate Cyber Defence Competition (CCDC)](https://www.nationalccdc.org/) team. I was the Linux System Administrator for our 2022 [Hivestorm](https://www.hivestorm.org/) team. CCSO has brought me amazing connections and long-lasting friendships that provided opportunities to travel and compete against other Competitive Colligate Cybersecurity Teams.
 
