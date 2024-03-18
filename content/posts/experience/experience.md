@@ -1,5 +1,5 @@
 ---
-title: "Extracurriculars"
+title: "Experience"
 date: 2024-03-17
 categories: ["About Me"]
 tags: ["Career Development", "About Me"]
