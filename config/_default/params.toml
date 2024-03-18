@@ -48,8 +48,8 @@ defaultBackgroundImage = "beach.jpg" # used as default for background images
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
+  showViews = ftrue
+  showLikes = true
   showDateOnlyInArticle = false
   showDateUpdated = true
   showAuthor = true
@@ -70,7 +70,7 @@ defaultBackgroundImage = "beach.jpg" # used as default for background images
   showTableOfContents = false
   # showRelatedContent = false
   # relatedContentLimit = 3
-  showTaxonomies = false
+  showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
@@ -141,3 +141,25 @@ defaultBackgroundImage = "beach.jpg" # used as default for background images
   # bing = ""
   # pinterest = ""
   # yandex = ""
+
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyDBeNZM4Sw2msC75Jo-d2wzpUkS6K3WGh8",
+  authDomain: "eglicky-com.firebaseapp.com",
+  projectId: "eglicky-com",
+  storageBucket: "eglicky-com.appspot.com",
+  messagingSenderId: "76495416889",
+  appId: "1:76495416889:web:9b0a74733524917d0b27e8",
+  measurementId: "G-KHRB4J8PL9"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
