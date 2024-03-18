@@ -7,7 +7,7 @@
 
 colorScheme = "Avocado"
 defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 
 enableSearch = true
 enableCodeCopy = false
@@ -37,7 +37,7 @@ defaultBackgroundImage = "beach.jpg" # used as default for background images
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "IMAGE.jpg" # used in: hero, and card
+  homepageImage = "beach.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = false
