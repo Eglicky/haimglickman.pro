@@ -31,6 +31,8 @@ Competitive Cyber Security Organization: Executive Board Member: Treasurer.
 
 Penn State Hillel and Chabad: On Campus Jewish Synoguage.
 
+Penn State THON OPPerations Committee for THON 2023 + 2024
+
 ## Work Experience
 
 Penn State IT Service Desk: Tier 1 Support
