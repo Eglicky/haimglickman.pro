@@ -17,12 +17,12 @@
 
  [[main]]
    name = "Extra Curriculars"
-   pageRef = "posts/extracurriculars"
+   pageRef = "extracurriculars"
    weight = 20
 
 [[main]]
   name = "Experience"
-  pageRef = "posts/experience"
+  pageRef = "experience"
   weight = 20
 
 #[[main]]

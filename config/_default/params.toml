@@ -101,7 +101,7 @@ defaultBackgroundImage = "beach.jpg" # used as default for background images
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
-  showLikes = true
+  showLikes = false
   showTableOfContents = false
   cardView = false
 
