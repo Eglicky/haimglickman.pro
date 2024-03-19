@@ -1,26 +1,26 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Eglick"
+title = "Haim Glickman"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "logo.png"
-  # secondaryLogo = "logo.png"
-   description = "Evan Glickman: Cybersecurity Analytics and Operations Student"
+  # logo = ""
+  # secondaryLogo = ""
+   description = "Haim Glickman: Executive IT Professional"
 #   copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
-   name = "Evan Glickman"
-   image = "me.jpg"
+   name = "Haim Glickman"
+   image = "profile.jpg"
    headline = "Cybersecurity Analytics and Operations Student at Penn State University"
    bio = "Student"
    links = [
-     { email = "edg5242@psu.edu" },
-     { linkedin = "https://www.linkedin.com/in/evan-glickman-a08888248/" },
+     { email = "hglickman@gmail.com" },
+     { linkedin = "https://www.linkedin.com/in/haim-glickman/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
@@ -32,7 +32,7 @@ title = "Eglick"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-      { github = "https://github.com/Eglicky" },
+#     { github = "https://github.com/user" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },

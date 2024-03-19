@@ -11,14 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "All Posts"
-  pageRef = "posts"
+  name = "Resume"
+  pageRef = "Resume"
   weight = 10
 
- [[main]]
-   name = "Extra Curriculars"
-   pageRef = "extracurriculars"
-   weight = 20
+# [[main]]
+#   name = "name"
+#   pageRef = "name"
+#   weight = 20
 
 [[main]]
   name = "Experience"
