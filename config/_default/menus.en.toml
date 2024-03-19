@@ -20,10 +20,10 @@
 #   pageRef = "name"
 #   weight = 20
 
-[[main]]
-  name = "Experience"
-  pageRef = "experience"
-  weight = 20
+# [[main]]
+#  name = "Experience"
+#  pageRef = "experience"
+#  weight = 20
 
 #[[main]]
 #  name = "example sub-menu 2"
