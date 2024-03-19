@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Resume"
-  pageRef = "resume"
+  pageRef = "Resume at a Glance"
   weight = 10
 
 # [[main]]
