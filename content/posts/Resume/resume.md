@@ -5,9 +5,7 @@ categories: ["Resume"]
 tags: ["Career", "Resume",]
 ---
 
-## Resume
-
-### Overview
+# Overview
 
 I have over 30 Years in Managed Services (MSP) industry experience supporting a wide range of fortune 500 companies within Finance, Transportation, Healthcare, Hospitality, and Retail industries. I built Sungard Avalability Services’ Recovery business from $200M of revenue to $1.6B in revenue within 12 years. 
 
@@ -17,7 +15,7 @@ I Transformed a failing implementation group at Sungard, Restructured team; incr
 
 I reduced cost of delivery infrastructure, improved client implementation from weeks to less than a day, and reduced delivery errors by 60% via Virtual Infrastructure Recovery Configurator. [See Patent: US9183097]("")
 
-### Accomplishments
+# Accomplishments
 
 2017 – Sungard AS Elite Performer - Recognized by EVP of sales for helping close deals, focusing on financial engineering and deal velocity. this was as part of my solutions engineering role.
 
@@ -29,7 +27,7 @@ I reduced cost of delivery infrastructure, improved client implementation from w
 
 2008 - Leaders Award - SunGard Availability Services Leadership Excellence.
 
-### Certifications
+# Certifications
 
 Proofpoint Certified Security Awareness Specialist 2023 
 
@@ -41,17 +39,17 @@ ITIL® Foundation Plus Ver 3
 
 Lean Six Sigma Green Belt
 
-## Education
+# Education
 
-### Bachelor of Science in Information Technology (BSIT)
+## Bachelor of Science in Information Technology (BSIT)
 
 University of Pheonix: Graduated with honors; GPA: 3,86
 
-## Experience
+# Experience
 
-### 11:11 Systems
+# 11:11 Systems
 
-#### Senior Vice President, Cost Management, Data Centers Operations and Engineering January 2024 - Present
+## Senior Vice President, Cost Management, Data Centers Operations and Engineering January 2024 - Present
 
 King of Prussia, PA (Remote w/ domestic and international travel - 40%)
 
@@ -61,7 +59,7 @@ Private-Equity
 
 1,200 Employees
 
-#### Responsibilities
+### Responsibilities
 
 Led and Manage all area of cost management of procurement including the Operations and Engineering of our owned 4 Data Centers and 60 Globally remote Data Centers.
 
@@ -75,7 +73,7 @@ Established offshore resources for transactional functions and enabled funding f
 
 Oversee 6 direct reports and 125 indirect reports - Procurement, Cost Management, Data center Operations, Data Center Engineering, Data Center relocation Services & Mobile / Work area Recovery.
 
-#### Accomplishments
+### Accomplishments
 
 Eliminated YTD March 1st $2.5M in Opex cost & Cost avoidance.
 
@@ -83,9 +81,9 @@ Established Cost Management Organization within the procurement teams focuses on
 
 Established focus on Data center profitability, by aligning costs with market pricing.
 
-#### Senior Vice President Corp IT, Security, Procurement & Technical Integration November 2022 - December 2023
+## Senior Vice President Corp IT, Security, Procurement & Technical Integration November 2022 - December 2023
 
-#### Responsibilities
+### Responsibilities
 
 I Led and managed all areas of the corporate IT organization, including IT infrastructure, employee technology services, procurement, and security.
 
@@ -104,7 +102,7 @@ I Responsible for the Technical Integration Team, this role involves overseeing 
 
 I Oversaw 5 direct reports and 145 indirect reports - Service Desk, Engineering, Applications, Procurement, CyberSecurity, and Technical Integration (Data Center Moves and Legacy Improvements)
 
-#### Accomplishments
+### Accomplishments
 
 I Eliminated around $9.5M in Opex cost & Cost avoidance.
 
@@ -112,7 +110,7 @@ I Established a company-wide phishing simulation and security awareness program.
 
 I Consolidation of disparate xDR and vulnerability scanning systems leveraged by 11:11 Systems. xDR will be migrating the legacy companies EDR implementations to Rapid7's Managed Threat Complete service.
 
-### Sungard Availability Services
+# Sungard Availability Services
 
 King of Prussia, PA (Remote w/ domestic and international travel - 30%)
 
@@ -122,15 +120,15 @@ Public & Private-Equity
 
 1,200 Employees
 
-#### Senior Vice President Global Business Operations - (CIO, CISO) November 2021 - November 2022
+## Senior Vice President Global Business Operations - (CIO, CISO) November 2021 - November 2022
 
-#### Responsibilities
+### Responsibilities
 
 I was responsible for all areas of the IT organization including IT Infrastructure, Enterprise Applications and Insights, Business Systems, Employee Technology Services, Security and IT Analytics.
 
 I Oversaw 6 direct and 140 indirect reports.
 
-#### Accomplishments
+### Accomplishments
 
 I Implemented Salesforce CPQ.
 
