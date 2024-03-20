@@ -16,7 +16,7 @@ I Transformed a failing implementation group at Sungard, Restructured team; incr
 
 #### [See Patent: US9183097](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9183097)
 
-I reduced cost of delivery infrastructure, improved client implementation from weeks to less than a day, and reduced delivery errors by 60% via Virtual Infrastructure Recovery Configurator. [See Patent: US9183097]("")
+I reduced cost of delivery infrastructure, improved client implementation from weeks to less than a day, and reduced delivery errors by 60% via Virtual Infrastructure Recovery Configurator.
 
 # Accomplishments
 
