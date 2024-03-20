@@ -1,8 +1,8 @@
 ---
 title: "About Me"
 date: 2024-03-17
-categories: ["About Me"]
+categories: ["Contact Me"]
 tags: ["Who Am I", "About Me"]
 ---
 
-## Who is Haim Glickman?
+## 
