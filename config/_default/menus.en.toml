@@ -17,7 +17,7 @@
 
  [[main]]
    name = "Resume"
-   pageRef = "resume"
+   pageRef = "/posts/resume/resume/"
    weight = 20
 
 # [[main]]
