@@ -61,7 +61,7 @@ Private-Equity
 
 1,200 Employees
 
-#### Responsibilities
+##### Responsibilities
 
 Led and Manage all area of cost management of procurement including the Operations and Engineering of our owned 4 Data Centers and 60 Globally remote Data Centers.
 
@@ -75,7 +75,7 @@ Established offshore resources for transactional functions and enabled funding f
 
 Oversee 6 direct reports and 125 indirect reports - Procurement, Cost Management, Data center Operations, Data Center Engineering, Data Center relocation Services & Mobile / Work area Recovery.
 
-#### Accomplishments In This Role
+##### Accomplishments In This Role
 
 Eliminated YTD March 1st $2.5M in Opex cost & Cost avoidance.
 
@@ -84,3 +84,5 @@ Established Cost Management Organization within the procurement teams focuses on
 Established focus on Data center profitability, by aligning costs with market pricing.
 
 #### Senior Vice President Corp IT, Security, Procurement & Technical Integration November 2022 - December 2023
+
+##### Responsibilities Here
