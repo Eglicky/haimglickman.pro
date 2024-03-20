@@ -17,7 +17,7 @@
 
  [[main]]
    name = "Resume"
-   pageRef = "Resume"
+   pageRef = "https://haimglickman.pro/posts/resume/resume/"
    weight = 20
 
 # [[main]]
