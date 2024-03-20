@@ -61,7 +61,7 @@ Private-Equity
 
 1,200 Employees
 
-##### Responsibilities
+#### Responsibilities
 
 Led and Manage all area of cost management of procurement including the Operations and Engineering of our owned 4 Data Centers and 60 Globally remote Data Centers.
 
@@ -75,7 +75,7 @@ Established offshore resources for transactional functions and enabled funding f
 
 Oversee 6 direct reports and 125 indirect reports - Procurement, Cost Management, Data center Operations, Data Center Engineering, Data Center relocation Services & Mobile / Work area Recovery.
 
-##### Accomplishments In This Role
+#### Accomplishments In This Role
 
 Eliminated YTD March 1st $2.5M in Opex cost & Cost avoidance.
 
@@ -85,4 +85,23 @@ Established focus on Data center profitability, by aligning costs with market pr
 
 #### Senior Vice President Corp IT, Security, Procurement & Technical Integration November 2022 - December 2023
 
-##### Responsibilities Here
+#### Responsibilities Here
+
+I Led and managed all areas of the corporate IT organization, including IT infrastructure, employee technology services, procurement, and security.
+
+I Developed and executed IT strategies to support business objectives, driving digital transformation and enhancing operational efficiency.
+
+I Oversaw the implementation of enterprise-wide cybersecurity measures, ensuring the protection of sensitive data and mitigating risks.
+
+I Streamlined procurement processes, negotiating favorable vendor contracts and optimizing cost savings.
+
+I Collaborated with cross-functional teams to identify and implement innovative technology solutions, improving business processes and driving productivity.
+
+I Provided leadership and mentorship to a high-performing team of IT professionals, fostering a culture of continuous learning and development.
+Managed IT budgets of $130M OPEX and $29M CAPEX and resource allocation, ensuring cost-effective delivery of IT services.
+
+I Responsible for the Technical Integration Team, this role involves overseeing and managing the integration of the technology infrastructure of the merging companies.
+
+I Oversaw 5 direct reports and 145 indirect reports - Service Desk, Engineering, Applications, Procurement, CyberSecurity, and Technical Integration (Data Center Moves and Legacy Improvements)
+
+#### Accomplishments Here
