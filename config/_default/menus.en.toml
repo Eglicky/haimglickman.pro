@@ -12,12 +12,12 @@
 
 #[[main]]
 #  name = "All Posts"
-#  pageRef = "posts/resume"
+#  pageRef = "posts/resume/resume"
 #  weight = 10
 
  [[main]]
    name = "Resume"
-   pageRef = "https://haimglickman.pro/posts/resume/resume/"
+   pageRef = "posts/resume/resume"
    weight = 20
 
 # [[main]]
