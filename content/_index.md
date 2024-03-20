@@ -1,5 +1,5 @@
 ## IT Professional
 
-I have been in the IT industry with over 30 years of experience. Check out my posts on my website to learn more.
+I am a Seasoned Global Executive with a proven track of driving transformation and achieving positive, effective results. I have extensive experience in diverse areas including Datacenter Operations and Engineering, Internal IT, Procurement, Security, and Sales. All of which allows me to bring a comprehensive skill set to the table.
 
-### [Contact Me](/posts/aboutme/aboutme/)
+# [Contact Me](/posts/aboutme/aboutme/)
