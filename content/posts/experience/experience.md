@@ -5,8 +5,6 @@ categories: ["About Me"]
 tags: ["Articles", "Publication"]
 ---
 
-# Publications
-
  ## [Critical Infrastructure Providers Need To Shape Up And Focus On Cybersecurity]("https://www.forbes.com/sites/forbestechcouncil/2021/09/17/critical-infrastructure-providers-need-to-shape-up-and-focus-on-cybersecurity/?sh=706f74882b86")
 
 ## [Why You Need A Disaster Recovery Plan For The Cloud]("https://www.forbes.com/sites/forbestechcouncil/2021/04/23/why-you-need-a-disaster-recovery-plan-for-the-cloud/")
