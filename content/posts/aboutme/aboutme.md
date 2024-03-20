@@ -7,7 +7,7 @@ tags: ["Who Am I", "About Me"]
 
 ## Email
 
-[hglickman@gmail.com]
+hglickman@gmail.com
 
 # Phone
 
