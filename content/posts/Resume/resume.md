@@ -45,7 +45,7 @@ Lean Six Sigma Green Belt
 
 ### Bachelor of Science in Information Technology (BSIT)
 
-University of Pheonix: Graduated with honors, GPA: 3,86
+University of Pheonix: Graduated with honors; GPA: 3,86
 
 ## Experience
 
@@ -75,7 +75,7 @@ Established offshore resources for transactional functions and enabled funding f
 
 Oversee 6 direct reports and 125 indirect reports - Procurement, Cost Management, Data center Operations, Data Center Engineering, Data Center relocation Services & Mobile / Work area Recovery.
 
-#### Accomplishments In This Role
+#### Accomplishments
 
 Eliminated YTD March 1st $2.5M in Opex cost & Cost avoidance.
 
@@ -85,7 +85,7 @@ Established focus on Data center profitability, by aligning costs with market pr
 
 #### Senior Vice President Corp IT, Security, Procurement & Technical Integration November 2022 - December 2023
 
-#### Responsibilities Here
+#### Responsibilities
 
 I Led and managed all areas of the corporate IT organization, including IT infrastructure, employee technology services, procurement, and security.
 
@@ -104,4 +104,36 @@ I Responsible for the Technical Integration Team, this role involves overseeing 
 
 I Oversaw 5 direct reports and 145 indirect reports - Service Desk, Engineering, Applications, Procurement, CyberSecurity, and Technical Integration (Data Center Moves and Legacy Improvements)
 
-#### Accomplishments Here
+#### Accomplishments
+
+I Eliminated around $9.5M in Opex cost & Cost avoidance.
+
+I Established a company-wide phishing simulation and security awareness program.
+
+I Consolidation of disparate xDR and vulnerability scanning systems leveraged by 11:11 Systems. xDR will be migrating the legacy companies EDR implementations to Rapid7's Managed Threat Complete service.
+
+### Sungard Availability Services
+
+King of Prussia, PA (Remote w/ domestic and international travel - 30%)
+
+IT Services & IT Consulting; Managed Services Provider (MSP)
+
+Public & Private-Equity
+
+1,200 Employees
+
+#### Senior Vice President Global Business Operations - (CIO, CISO) November 2021 - November 2022
+
+#### Responsibilities
+
+I was responsible for all areas of the IT organization including IT Infrastructure, Enterprise Applications and Insights, Business Systems, Employee Technology Services, Security and IT Analytics.
+
+I Oversaw 6 direct and 140 indirect reports.
+
+#### Accomplishments
+
+I Implemented Salesforce CPQ.
+
+I Implemented DLP, MDR, office365 backup, Mobile device security.
+
+I Improved Security Scorecard ratings by 18% over 4 months. Grade A.
