@@ -13,7 +13,6 @@ I have a defined end‐to‐end service portfolio that extended company’s exis
 
 I Transformed a failing implementation group at Sungard, Restructured team; increased certification levels for PMs from 18% to 60%. I reduced lost revenue to ˂$50K annually, down from $500K. I grew EBITDA by 20% while exceeding operating budget by establishing offshore presents and moving transactional functions off-shore and nearshore.
 
-
 #### [See Patent: US9183097](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9183097)
 
 I reduced cost of delivery infrastructure, improved client implementation from weeks to less than a day, and reduced delivery errors by 60% via Virtual Infrastructure Recovery Configurator.
